@@ -8,7 +8,7 @@ Ingeniero Civil Químico de la Universidad de Concepción (titulado 2026). Vengo
 
 | Proyecto | Qué resuelve | Estado |
 | --- | --- | --- |
-| **Memoria de compostaje reproducible** | Ajuste de 4 modelos cinéticos (primer orden, Arrhenius, bifásico, Gompertz modificado) a datos de literatura, con bootstrap y selección por AICc | En preparación |
+| [Memoria de compostaje reproducible](https://github.com/vmunozicq/compostaje-cinetica) | Ajuste de 4 modelos cinéticos (primer orden, Arrhenius, bifásico, Gompertz modificado) a datos de literatura, con bootstrap y selección por AICc | [Repositorio](https://github.com/vmunozicq/compostaje-cinetica) |
 | **Planta MBBR + verificador normativo** | Dimensiona una planta compacta MBBR y verifica el efluente contra DS 90, DS 609 y DS 46, con cartas de control y Cpk | En preparación |
 | **Extractor de compromisos RCA** | Convierte una RCA pública del SEIA en una matriz de cumplimiento, con cita de considerando y página | En preparación |
 | [Torre de prilling con PSD](https://github.com/vmunozicq/Torre-prilling) | Modela enfriamiento y solidificación de gotas de urea y la distribución de tamaño del producto | [Repositorio](https://github.com/vmunozicq/Torre-prilling) |
